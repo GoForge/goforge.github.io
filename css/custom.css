@@ -1,0 +1,26 @@
+.tcenter {
+    text-align:center;
+}
+.main-container {
+    position:absolute;
+    top:30%;
+    left:10%;
+    width:80%;
+}
+.fw {
+    width:100%;
+}
+.dname {
+    color: blue;
+    font-weight:bold;
+}
+.clock {
+    color: red;
+    font-style: italic;
+}
+.appcontain {
+    border:thin dashed black;
+}
+.appcplan {
+    font-style: italic;
+}
